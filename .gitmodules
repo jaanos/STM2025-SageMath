@@ -1,0 +1,3 @@
+[submodule "DiscreteZOO-sage"]
+	path = DiscreteZOO-sage
+	url = https://github.com/DiscreteZOO/DiscreteZOO-sage.git
